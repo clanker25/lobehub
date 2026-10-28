@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ESNext",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "sourceMap": true,
+    "skipDefaultLibCheck": true,
+    "allowSyntheticDefaultImports": false,
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": false,
+    "skipLibCheck": true,
+    "strict": false,
+    "types": ["vitest/globals"]
+  }
+}
